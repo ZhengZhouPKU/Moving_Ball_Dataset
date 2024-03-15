@@ -10,3 +10,5 @@ Tips:
 The Dataset had been used in following paper:
 1. Nature Nanotechnology, 2023, Optoelectronic graded neurons for bioinspired in-sensor motion perception, https://doi.org/10.1038/s41565-023-01379-2
 2. Science Advances, 2024, Thin-film transistor for temporal self-adaptive reservoir computing with closed-loop architecture, https://doi.org/10.1126/sciadv.adl1299
+
+
